@@ -1,0 +1,19 @@
+{
+  "name": "spotify-artist-migrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sgrieb/spotify-artist-migrator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sgrieb/spotify-artist-migrator/issues"
+  },
+  "homepage": "https://github.com/sgrieb/spotify-artist-migrator#readme"
+}
